@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AyanaSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_reg">RegActivity</string>
+    <string name="title_activity_qa">QAActivity</string>
+    <string name="title_activity_ask">AskActivity</string>
+    <string name="title_activity_answer">AnswerActivity</string>
+    <string name="title_activity_answer_q">AnswerQActivity</string>
+    <string name="title_activity_ruready">RUReadyActivity</string>
+
+</resources>
